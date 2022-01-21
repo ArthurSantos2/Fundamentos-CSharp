@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gaqtt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gaqtt\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+C:\Projetos\TextEditor\bin\Debug\net6.0\TextEditor.exe
+C:\Projetos\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\Projetos\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+C:\Projetos\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\Projetos\TextEditor\bin\Debug\net6.0\ref\TextEditor.dll
+C:\Projetos\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\Projetos\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\Projetos\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
